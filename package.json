@@ -1,0 +1,13 @@
+{
+  "name": "musicline",
+  "version": "1.0.0",
+  "description": "NowListening WebSocket server",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.17.0"
+  }
+}
